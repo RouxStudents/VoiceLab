@@ -19,7 +19,7 @@ Queries and Commands | List of questions and cammands humanitarian actors might 
 
 ## Data Partners Program
 
-The Lab is recruiting humanitarian organizations through its **Data Partners Program** to provide key aid activity data needed to help improve AI training datasets and to consult on training and testing outputs. Staff from organizations can register to participate via this [form]().
+The Lab is recruiting humanitarian organizations through its **Data Partners Program** to provide key aid activity data needed to help improve AI training datasets and to consult on training and testing outputs. Staff from organizations can register to participate via this [form](https://docs.google.com/forms/d/e/1FAIpQLSctRp_vi-Bf5NepyIL2UvZIWgI6ekwQUa7YDRvfgSTXq3X5rw/viewform?usp=sf_link).
 
 ## Voice Applications
 
@@ -31,4 +31,4 @@ The Lab is concentrating on research and developing ways information streaming t
 
 ## Get Involved
 
-We'll be coordinating lab work through [Roux Students](https://gdsc.community.dev/northeastern-university-portland/) and the [Humanitarian AI](https://humanitarianai.org) and [Princeton School of AI](https://www.meetup.com/Princeton-School-of-AI/) meetup groups. The VoiceLab is an all-volunteer initiative open to anyone with an interest in getting involved involved regardless of their technical proficiency. Get in touch via this [form]() or follow and direct message us through [Twitter](https://twitter.com/RouxStudents).
+We'll be coordinating lab work through [Roux Students](https://gdsc.community.dev/northeastern-university-portland/) and the [Humanitarian AI](https://humanitarianai.org) and [Princeton School of AI](https://www.meetup.com/Princeton-School-of-AI/) meetup groups. The VoiceLab is an all-volunteer initiative open to anyone with an interest in getting involved involved regardless of their technical proficiency. Get in touch via this [form](https://docs.google.com/forms/d/e/1FAIpQLSe5hMIJYrga7gk3tavB_e81cSabDUHhsWc3wmOBbWwpm1bQ1Q/viewform?usp=sf_link) or follow and direct message us through [Twitter](https://twitter.com/RouxStudents).
