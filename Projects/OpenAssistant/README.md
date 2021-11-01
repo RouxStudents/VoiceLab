@@ -1,1 +1,1 @@
-# Open Digital Assistant Prototype
+# Prototype Open Digital Assistant
