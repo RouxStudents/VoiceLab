@@ -4,4 +4,4 @@ This project will experiment with using transformers like BERT to train text cla
 
 ## Projects
 
-To get started, our first project will focus on building a [SectorCoder](https://github.com/RouxStudents/VoiceLab/tree/main/Projects/SectorCoder)able to classify and assign sector codes to humanitarian aid activities, creating additional pathways humanitarian AI applications can traverse. 
+To get started, our first project will focus on building a [SectorCoder](https://github.com/RouxStudents/VoiceLab/tree/main/Projects/SectorCoder) able to classify and assign sector codes to humanitarian aid activities, creating additional pathways humanitarian AI applications can traverse. 
