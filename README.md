@@ -30,4 +30,4 @@ The Lab is concentrating on research and developing ways information streaming t
 
 ## Get Involved
 
-We'll be coordinating lab work through **Roux Students** and the **Humanitarian AI** and **Princeton School of AI** meetup groups. The VoiceLab is an all-volunteer initiative open to anyone with an interest in getting involved involved regardless of their technical proficiency. Get in touch via this [form](https://docs.google.com/forms/d/e/1FAIpQLSe5hMIJYrga7gk3tavB_e81cSabDUHhsWc3wmOBbWwpm1bQ1Q/viewform?usp=sf_link) or follow and direct message VoiceLab team members through [Twitter](https://twitter.com/RouxStudents).
+We'll be coordinating lab work through **Roux Students** and the **Humanitarian AI** and **Princeton School of AI** meetup groups. The VoiceLab is an all-volunteer initiative open to anyone with an interest in getting involved involved regardless of their technical proficiency. Get in touch via this [form](https://docs.google.com/forms/d/e/1FAIpQLSe5hMIJYrga7gk3tavB_e81cSabDUHhsWc3wmOBbWwpm1bQ1Q/viewform?usp=sf_link) or direct message VoiceLab team members through [Twitter](https://twitter.com/RouxStudents).
