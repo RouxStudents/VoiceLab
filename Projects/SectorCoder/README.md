@@ -29,4 +29,4 @@ Creating a classifier able to match activities and sector codes can make it poss
 
 ## Output
 
-Given one or a list of aid activity titles and descriptions, the classifier will assign each activity a corresponding 3-digit sector category code and a 5-digit sector code. Where applicable, classifier will output more than one code based on likely matches.
+Given one or a list of aid activity titles and descriptions, the classifier will assign each activity a corresponding 3-digit sector category code and a 5-digit sector code. Where applicable, the classifier will output more than one code based on likely matches.
