@@ -26,6 +26,10 @@ Creating a classifier able to match activities and sector codes can make it poss
 * Test setup and data loading
 * ...
 
+## Colab Notebook
+
+Project Notebook: https://colab.research.google.com/drive/1i5Y90d-3FczZf9EuiBRJEmM-qEC9nD5y?usp=sharing
+
 
 ## Output
 
