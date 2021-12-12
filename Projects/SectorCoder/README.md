@@ -7,9 +7,9 @@ Humanitarian organizations use standardized **sector codes** to classify aid act
 ## Data
 
 The project will use datasets stored in a public Google Cloud bucket for training and testing:
-* One CSV file containing rows of activity **descriptions** *with* sector codes added by staff from humanitarian organizations + metadata listing corresponding reporting organization names, activity **titles** and sector code narratives (**activities.csv**): https://storage.googleapis.com/sectorcoder/activities.csv
+* One CSV file containing rows of activity **descriptions** *with* sector codes added by staff from humanitarian organizations + metadata listing corresponding reporting organization names, activity **titles** and sector code names (**activities.csv**): https://storage.googleapis.com/sectorcoder/activities.csv
 
-* One CSV files containing rows of sector **codes** and their corresponding sentence length **descriptions** (file: **oecdcodes.csv**): https://storage.googleapis.com/sectorcoder/oecdcodes.csv
+* One CSV files containing rows of sector **codes** and their corresponding sentence length **descriptions** (file: **oecdcodes.csv**): https://storage.googleapis.com/sectorcoder/OECDSectorCodes.csv
 
 ## Tasks
 
